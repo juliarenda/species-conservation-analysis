@@ -47,7 +47,7 @@ after cleaning the dataset, I analyzed the distribution of conservation status a
 
 ![Distribution of Conservation Status](images/conservation_status_distribution.png)
 
-### what did we find?
+### what did we find??
 
 the most represented category was **Endangered**, accounting for approximately **35.4%** of the cleaned dataset.
 
