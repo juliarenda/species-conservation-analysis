@@ -117,6 +117,16 @@ you know.
 
 ---
 
+## 📦 dataset
+
+the dataset used in this project is the **Endangered Species Dataset**, available on Kaggle and published by **chirayurijal**.
+
+🐾 **source:** [Endangered Species Dataset — Kaggle](https://www.kaggle.com/datasets/chirayurijal/worldwildlifespeciesdata)
+
+the original dataset was used for educational purposes as part of my first exploratory data science project.
+
+---
+
 ### hi, i'm julia ♡
 
 **I'm just a girl (but make it statistically significant).**
